@@ -1,0 +1,7 @@
+{
+  "extends": ["@rocketseat/eslint-config/node"],
+  "rules": {
+    "no-console": "off", // Permite o uso de console.log
+    "prettier/prettier": "warn" // Altera erros de Prettier para warnings
+  }
+}
